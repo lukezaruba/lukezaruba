@@ -10,7 +10,8 @@
 
 ### Projects
 
-- **Language:** [Placeholder](https://lukezaruba.github.io)
+- **Python:** [Placeholder](https://lukezaruba.github.io)
+- **SQL:** [Placeholder](https://lukezaruba.github.io)
 
 ---
 
