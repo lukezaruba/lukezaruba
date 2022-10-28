@@ -4,22 +4,14 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/lukezaruba)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lukezaruba.lukezaruba)
 
-[personal website](https://lukezaruba.github.io)
+[Personal Website](https://lukezaruba.github.io)
 
 ---
 
 ### Projects
 
-- **Python:** [Placeholder](https://lukezaruba.github.io)
-- **SQL:** [Placeholder](https://lukezaruba.github.io)
-
----
-
-### Blog Posts
-
-<!-- HASHNODE:START -->
-- Placeholder
-<!-- HASHNODE:END -->
+- **Python:** [Minneapolis Urban Heat Island](https://github.com/lukezaruba/mplsUHI), [Geospatial ETL Automation](https://github.com/lukezaruba/GIS5571/tree/main/Lab1)
+- **SQL:** [Texas Flooding Hazards](https://github.com/lukezaruba/floodHazardsTX)
 
 ---
 
