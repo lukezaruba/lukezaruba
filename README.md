@@ -10,7 +10,7 @@
 
 ### Projects
 
-- **Python:** [Minneapolis Urban Heat Island](https://github.com/lukezaruba/mplsUHI), [Geospatial ETL Automation](https://github.com/lukezaruba/GIS5571/tree/main/Lab1)
+- **Python:** [Micromobility Spatiotemporal Data Mining and Visualization](https://github.com/lukezaruba/MicromobilitySTDM), [Alternative Fuel Infrastructure Optimization](https://github.com/lukezaruba/GIS5571/tree/main/Alternative%20Fuel%20Station%20Optimization), [Minneapolis Urban Heat Island](https://github.com/lukezaruba/mplsUHI), [Geospatial ETL Automation](https://github.com/lukezaruba/GIS5571/tree/main/Lab1)
 - **SQL:** [Texas Flooding Hazards](https://github.com/lukezaruba/floodHazardsTX)
 
 ---
