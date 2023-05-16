@@ -13,9 +13,3 @@
 - Spatial Data Science
 - Location and Business Intelligence
 - Big Data & Data Engineering
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukezaruba&hide_progress=true&langs_count=6)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukezaruba&langs_count=5) -->
