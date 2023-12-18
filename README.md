@@ -4,4 +4,4 @@
 [![Personal Website](https://img.shields.io/badge/-Personal_Website-%23EAEBED)](https://lukezaruba.github.io)
 
 ---
-<h3 align="center"> Spatial Data Science • Location and Business Intelligence • Data Engineering </h3>
+<h3 align="center"> Spatial Data Science • Data Engineering • Location and Business Intelligence </h3>
