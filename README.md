@@ -7,7 +7,7 @@
   &nbsp
   &nbsp
   &nbsp
-  <a href="https://www.linkedin.com/in/lukezaruba"><img src="https://img.shields.io/badge/My-Portfolio-lightgrey"/></a>
+  <a href="https://lukezaruba.github.io/"><img src="https://img.shields.io/badge/My-Portfolio-lightgrey"/></a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lukezaruba" />
 </p>
